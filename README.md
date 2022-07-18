@@ -1,2 +1,3 @@
-# personal-site
-My personal website, hosted at GitHub Pages
+# williambrendaw.com
+
+My personal website, to be migrated to GitHub Pages.
